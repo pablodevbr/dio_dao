@@ -13,7 +13,7 @@ A missão da DAO é encontrar os amantes dos cafés especiais ao redor do mundo 
 //TODO
 ## TOKEN
 //TODO
-$SCOFFEE
+$SCT
 
 ## TOKENOMICS
 //TODO
